@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub User Search</string>
+    <string name="username">Username</string>
+    <string name="cari">Cari</string>
+    <string name="textusername">TextUsername</string>
+    <string name="textid">TextID</string>
+</resources>
